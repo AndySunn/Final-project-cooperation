@@ -13,3 +13,7 @@
 [做过的一个网页设计](http://andysunn.gitee.io/web_html/)
 <br>
 [Python网上选色](http://andymelon.pythonanywhere.com/)
+
+---
+加我微信！
+## 我的微信号： AndySun11
