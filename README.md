@@ -15,5 +15,12 @@
 [Python网上选色](http://andymelon.pythonanywhere.com/)
 
 ---
+关于我：
++ 本人python能力一般，但绝不会划水，会继续学习，会为了期末项目付出努力。
++ 使用Flask构建简单的Web应用
++ 将Python与Mysql数据库进行连接，将数据存储在数据库里
++ 会将Python Web应用部署到pythonanywhere上，上面项目Python网上选色可显示。
+
+---
 加我微信！
 ## 我的微信号： AndySun11
